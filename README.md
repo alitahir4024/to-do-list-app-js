@@ -24,4 +24,4 @@
 
 ## Project Preview:
 
-(https://ali-tahir4024.github.io/to-do-list-app-js/)
+[To-Do List App](https://alitahir4024.github.io/to-do-list-app-js/)
